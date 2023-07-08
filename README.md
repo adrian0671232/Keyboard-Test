@@ -1,4 +1,4 @@
 # Keyboard-Test
 
 Simple keyboard test to test out the responsiveness of you keyboard, simple & lightweight so don't expect much & don't expect any recent updates.
-May make one in the future but idk.
+May make a new one in the future but idk.
